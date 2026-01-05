@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  transition: background 0.4s;
+}
+
+.box {
+  text-align: center;
+}
+
+button {
+  padding: 10px 15px;
+  cursor: pointer;
+}
